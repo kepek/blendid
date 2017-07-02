@@ -1,0 +1,10 @@
+/.idea
+.DS_Store
+.sass-cache
+.publish
+dist
+Desktop.ini
+node_modules
+bower_components
+**/generated/*
+npm-debug.log
