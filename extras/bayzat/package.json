@@ -17,6 +17,6 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "blendid": "github:kepek/blendid#44.0.1"
+    "blendid": "github:kepek/blendid#v44.0.1"
   }
 }
